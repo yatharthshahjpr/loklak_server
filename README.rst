@@ -168,7 +168,7 @@ How do I install loklak: Download, Build, Run
 
 ---------------------------------------------
 
-|Deploy|
+|Deploy on Heroku|
 |Deploy on Scalingo|
 |Deploy to Bluemix|
 |Deploy to Docker Cloud|
